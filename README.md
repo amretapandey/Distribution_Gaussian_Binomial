@@ -1,1 +1,1 @@
-# Distribution: Gaussian, Binomial
+# Python Package Distribution: Gaussian, Binomial
