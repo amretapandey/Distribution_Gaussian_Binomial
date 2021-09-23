@@ -1,1 +1,1 @@
-# Distribution_Gaussian_Binomial
+# Distribution: Gaussian, Binomial
